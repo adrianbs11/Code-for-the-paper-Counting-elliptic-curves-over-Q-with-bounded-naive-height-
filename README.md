@@ -25,7 +25,7 @@ This repository contains the SageMath worksheets with the code that was implemen
 
 📐 Exact and Asymptotic Formulas
 
-* generalized_exact_count_formula_for_all_elliptic_curves(X, alpha, beta): Computes the exact count of elliptic curves with height <= X using Theorem 4.5.
+* generalized_exact_count_formula_for_all_elliptic_curves(X, alpha, beta): Computes the exact count of elliptic curves with height ≤ X using Theorem 4.5.
 
 * generalized_asymptotic_estimate_for_all_isomorphism_classes(X, alpha, beta): Computes the asymptotic estimate for the number of isomorphism classes using Theorem 4.5.
 
@@ -47,7 +47,7 @@ This repository contains the SageMath worksheets with the code that was implemen
 
 * generalized_exact_count_curves_with_j_by_exhaustive_search(X, j, alpha, beta): Counts curves with fixed j-invariant and bounded height by brute-force search.
 
-* generalized_exact_count_cm_curves_by_exhaustive_search(X, alpha, beta): Counts CM curves with height ≤X≤X via exhaustive search.
+* generalized_exact_count_cm_curves_by_exhaustive_search(X, alpha, beta): Counts CM curves with height ≤ X via exhaustive search.
 
 * generalized_exact_count_isomorphism_classes_cm_curves_by_exhaustive_search(X, alpha, beta): Same as above, but only counts CM curves that satisfy the isomorphism class condition.
 
