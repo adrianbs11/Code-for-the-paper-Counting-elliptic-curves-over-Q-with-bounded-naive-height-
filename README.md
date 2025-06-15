@@ -15,7 +15,7 @@ This repository contains the SageMath worksheets with the code that was implemen
 
 * disc(A, B): Computes the discriminant of the curve y^2= x^3 + Ax + B.
 
-* prime_condition(A, B): Checks if the pair (A,B) satisfies the "primality condition" used to select canonical representatives.
+* prime_condition(A, B): Checks if the pair (A,B) satisfies the "primality condition" used to select representatives.
 
 * generalized_naive_height(A, B, alpha, beta): Computes the generalized naive height Hα,β of a curve.
 
