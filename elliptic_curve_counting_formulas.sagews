@@ -1,4 +1,3 @@
-︠6549c0e8-2120-4e53-bb8c-1c01a1dadcafs︠
 # This script contains functions used to compute both the exact and asymptotic formulas presented in the paper.
 #
 # In addition, it includes functions that perform exhaustive computer searches.
@@ -716,8 +715,6 @@ def minimal_generalized_naive_height_for_j(j, alpha, beta):
         return max(alpha * abs(A)^3, beta * B^2)
 
 
-︡42d767d7-2d0b-48ef-9568-9e0ecad6bb4b︡{"done":true}
-︠ddfb304d-6b39-4458-a72e-435e64fc3108︠
 
 
 
